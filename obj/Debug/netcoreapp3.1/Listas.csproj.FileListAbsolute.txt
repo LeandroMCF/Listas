@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\bin\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Listas\obj\Debug\netcoreapp3.1\Listas.genruntimeconfig.cache
